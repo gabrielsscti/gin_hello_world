@@ -1,4 +1,4 @@
-module hello_world
+module github.com/gabrielsscti/gin_hello_world
 
 go 1.17
 
